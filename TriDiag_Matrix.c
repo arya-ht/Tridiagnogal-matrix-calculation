@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
+/*
+ *created by Arya HajiTaheri
+ */
 #define N 4
 #define N2 6
 
