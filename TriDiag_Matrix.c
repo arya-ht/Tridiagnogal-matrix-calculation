@@ -10,7 +10,7 @@
 void makeMatrix1();
 void makeMatrix2();
 void printMatirx(double[], double[], double[], double[]);
-void printMatirx2(double[], double[], double[], double[], double[]); // I could not figure out how to make this function work with any given array size
+void printMatirx2(double[], double[], double[], double[], double[]); // There are two printMatrix() because I did not use dynamic array. 
 
 void makeMatrix1() {
 	double matrix[N][N], alpha[N], f[N] = { 40.8,0.8,0.8,200.8 }, b[N], c[N], g[N], a[N], u[N];
